@@ -1,1 +1,1 @@
-# autotests-task-tracker
+# ui and api tests for task tracker
